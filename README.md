@@ -1,5 +1,5 @@
 # TwitterAPI-Integrations
-Integrations that I have developed using the twitter API:
+Integrations that I have developed using the Twitter API via SnapLogic (Integration Platform):
 
 Scenario 1 – posts a tweet to twitter which includes place, latitude and longitude. If successfully, tweet will be posted and will return a 200 with sender id and message id
 
